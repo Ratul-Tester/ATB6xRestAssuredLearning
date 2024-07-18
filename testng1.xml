@@ -9,6 +9,7 @@
                     <include name="getRequestPing"/>
                 </methods>
             </class>
+            <class name="com.thetestingaccademy.ex_ra01.Lab261"></class>
             <class name="com.thetestingaccademy.testng.Lab263">
                 <methods>
                     <include name="setRequest1"/>
@@ -16,6 +17,7 @@
                     <include name="setRequest3"/>
                 </methods>
             </class>
+            <class name="com.thetestingaccademy.ex_ra01.Lab260"></class>
         </classes>
     </test>
 </suite>

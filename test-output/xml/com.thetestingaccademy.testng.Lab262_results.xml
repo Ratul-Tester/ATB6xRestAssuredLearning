@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ATB6xRestAssuredLearning"
+<testsuite name="C:/Users/RATUL/IdeaProjects/ATB6xRestAssuredLearning"
            tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="15.792">
+           time="10.763">
     <properties></properties>
 
 
 
             <testcase
                 name="getRequest"
-                time="14.453"
+                time="9.497"
                 classname="com.thetestingaccademy.testng.Lab262">
             </testcase>
             <testcase
                 name="getRequestPing"
-                time="1.339"
+                time="1.266"
                 classname="com.thetestingaccademy.testng.Lab262">
             </testcase>
 </testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/RATUL/IdeaProjects/ATB6xRestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.306">
+    <properties></properties>
+
+
+
+            <testcase
+                name="bookingModule"
+                time="1.306"
+                classname="com.thetestingaccademy.ex_ra01.Lab261">
+            </testcase>
+</testsuite>
