@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="10.763">
+           time="11.675">
     <properties></properties>
 
 
 
             <testcase
-                name="getRequest"
-                time="9.497"
+                name="getRequestPing"
+                time="1.301"
                 classname="com.thetestingaccademy.testng.Lab262">
             </testcase>
             <testcase
-                name="getRequestPing"
-                time="1.266"
+                name="getRequest"
+                time="10.374"
                 classname="com.thetestingaccademy.testng.Lab262">
             </testcase>
 </testsuite>

@@ -9,7 +9,7 @@ public class Lab260 {
     @Description("Checking for ping module")
     @Test
     public void pingModule()
-   /*public static void main(String[] args) */{
+        /*public static void main(String[] args) */ {
         RestAssured
                 .given()
                 .baseUri("https://restful-booker.herokuapp.com")

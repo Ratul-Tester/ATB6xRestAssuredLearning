@@ -16,6 +16,7 @@ public class Lab262 {
                 .then().statusCode(200);
 
     }
+
     @Description("TC for checking ping status")
     @Test
     public void getRequestPing() {

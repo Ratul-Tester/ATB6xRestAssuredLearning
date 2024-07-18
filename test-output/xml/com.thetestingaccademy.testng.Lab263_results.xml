@@ -4,7 +4,7 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.063">
+           time="0.031">
     <properties></properties>
 
 
@@ -16,12 +16,12 @@
             </testcase>
             <testcase
                 name="setRequest1"
-                time="0.031"
+                time="0.000"
                 classname="com.thetestingaccademy.testng.Lab263">
             </testcase>
             <testcase
                 name="setRequest2"
-                time="0.016"
+                time="0.015"
                 classname="com.thetestingaccademy.testng.Lab263">
             </testcase>
 </testsuite>
