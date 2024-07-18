@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="C:/Users/RATUL/IdeaProjects/ATB6xRestAssuredLearning"
+<testsuite name="ATB6xRestAssuredLearning"
            tests="3"
            failures="0"
            errors="0"
            skipped="0"
-           time="0.031">
+           time="0.000">
     <properties></properties>
 
 
 
             <testcase
-                name="setRequest3"
-                time="0.016"
+                name="setRequest2"
+                time="0.000"
                 classname="com.thetestingaccademy.testng.Lab263">
             </testcase>
             <testcase
@@ -20,8 +20,8 @@
                 classname="com.thetestingaccademy.testng.Lab263">
             </testcase>
             <testcase
-                name="setRequest2"
-                time="0.015"
+                name="setRequest3"
+                time="0.000"
                 classname="com.thetestingaccademy.testng.Lab263">
             </testcase>
 </testsuite>

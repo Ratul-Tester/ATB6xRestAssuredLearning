@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="C:/Users/RATUL/IdeaProjects/ATB6xRestAssuredLearning"
+<testsuite name="ATB6xRestAssuredLearning"
            tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="1.365">
+           time="13.900">
     <properties></properties>
 
 
 
             <testcase
                 name="pingModule"
-                time="1.365"
+                time="13.900"
                 classname="com.thetestingaccademy.ex_ra01.Lab260">
             </testcase>
 </testsuite>

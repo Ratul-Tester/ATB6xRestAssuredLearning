@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/RATUL/IdeaProjects/ATB6xRestAssuredLearning">
+    <test verbose="2" preserve-order="false" name="ATB6xRestAssuredLearning">
         <classes>
-            <class name="com.thetestingaccademy.testng.Lab262">
-                <methods>
-                    <include name="getRequest"/>
-                    <include name="getRequestPing"/>
-                </methods>
-            </class>
+            <class name="com.thetestingaccademy.testng.Lab262"></class>
             <class name="com.thetestingaccademy.ex_ra01.Lab261"></class>
-            <class name="com.thetestingaccademy.testng.Lab263">
-                <methods>
-                    <include name="setRequest1"/>
-                    <include name="setRequest2"/>
-                    <include name="setRequest3"/>
-                </methods>
-            </class>
+            <class name="com.thetestingaccademy.testng.Lab263"></class>
             <class name="com.thetestingaccademy.ex_ra01.Lab260"></class>
         </classes>
     </test>
