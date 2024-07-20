@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.171">
+           time="1.242">
     <properties></properties>
 
 
 
             <testcase
                 name="bookingModule"
-                time="2.171"
+                time="1.242"
                 classname="com.thetestingaccademy.ex_ra01.Lab261">
             </testcase>
 </testsuite>
