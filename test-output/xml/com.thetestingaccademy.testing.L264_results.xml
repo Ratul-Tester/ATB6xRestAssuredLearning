@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.000">
+           time="0.016">
     <properties></properties>
 
 
 
             <testcase
                 name="demo5"
-                time="0.000"
+                time="0.016"
                 classname="com.thetestingaccademy.testing.L264">
             </testcase>
 </testsuite>

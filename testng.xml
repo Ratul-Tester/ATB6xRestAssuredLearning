@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="false" name="ATB6xRestAssuredLearning">
+    <test verbose="2" preserve-order="true" name="ATB6xRestAssuredLearning">
         <classes>
             <class name="com.thetestingaccademy.testng.Lab262"></class>
             <class name="com.thetestingaccademy.ex_ra01.Lab261"></class>
             <class name="com.thetestingaccademy.testng.Lab263"></class>
             <class name="com.thetestingaccademy.ex_ra01.Lab260"></class>
-            <class name="com.thetestingaccademy.testing.supermath"></class>
             <class name="com.thetestingaccademy.testing.L264"></class>
             <class name="com.thetestingaccademy.testng.L265"></class>
             <class name="com.thetestingaccademy.ex_ra01.L266"></class>
+            <class name="com.thetestingaccademy.testing.supermath"></class>
             <class name="com.thetestingaccademy.testing.Misci"></class>
+            <class name="com.thetestingaccademy.testng.TestTrial"></class>
 
         </classes>
     </test>

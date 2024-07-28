@@ -4,12 +4,12 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="2.375">
+           time="0.016">
     <properties></properties>
 
             <testcase
                 name="hardAssert"
-                time="2.375"
+                time="0.016"
                 classname="com.thetestingaccademy.ex_ra01.L266">
 
             <failure type="java.lang.AssertionError" message="No Match expected [ratul] but found [Ratul]">
