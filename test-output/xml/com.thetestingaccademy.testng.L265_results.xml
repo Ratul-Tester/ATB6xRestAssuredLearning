@@ -4,12 +4,12 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="0.063">
+           time="0.031">
     <properties></properties>
 
             <testcase
                 name="softAssert"
-                time="0.063"
+                time="0.031"
                 classname="com.thetestingaccademy.testng.L265">
 
             <failure type="java.lang.AssertionError" message="The following asserts failed:
