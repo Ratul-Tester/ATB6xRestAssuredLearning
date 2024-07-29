@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.032">
+           time="0.031">
     <properties></properties>
 
 
 
             <testcase
                 name="calcu"
-                time="0.032"
+                time="0.031"
                 classname="com.thetestingaccademy.testing.supermath">
             </testcase>
 </testsuite>

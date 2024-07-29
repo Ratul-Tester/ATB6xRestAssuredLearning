@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.822">
+           time="2.010">
     <properties></properties>
 
 
 
             <testcase
                 name="pingModule"
-                time="1.822"
+                time="2.010"
                 classname="com.thetestingaccademy.ex_ra01.Lab260">
             </testcase>
 </testsuite>
