@@ -3,9 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB6xRestAssuredLearning">
         <classes>
-
-            <class name="com.thetestingaccademy.testng.L265"></class>
-
+            <class name="com.thetestingaccademy.ex_ra01.L266">
+            </class>
 
         </classes>
     </test>

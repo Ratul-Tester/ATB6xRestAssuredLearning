@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.015">
+           time="0.000">
     <properties></properties>
 
 
 
             <testcase
                 name="calculation"
-                time="0.015"
+                time="0.000"
                 classname="com.thetestingaccademy.testng.TestTrial">
             </testcase>
 </testsuite>
