@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.517">
+    <properties></properties>
+
+
+
+            <testcase
+                name="postRequestBDDStyle"
+                time="1.459"
+                classname="com.thetestingaccademy.testng.Lab267">
+            </testcase>
+            <testcase
+                name="getRequestBDDStyle"
+                time="1.548"
+                classname="com.thetestingaccademy.testng.Lab267">
+            </testcase>
+            <testcase
+                name="createTokenBDDStyle"
+                time="8.510"
+                classname="com.thetestingaccademy.testng.Lab267">
+            </testcase>
+</testsuite>
