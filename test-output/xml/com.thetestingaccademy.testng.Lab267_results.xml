@@ -4,24 +4,24 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="11.517">
+           time="14.146">
     <properties></properties>
 
 
 
             <testcase
-                name="postRequestBDDStyle"
-                time="1.459"
+                name="getBookingIdsBDDStyle"
+                time="9.728"
                 classname="com.thetestingaccademy.testng.Lab267">
             </testcase>
             <testcase
-                name="getRequestBDDStyle"
-                time="1.548"
+                name="postCreateTokenBDDStyle"
+                time="1.947"
                 classname="com.thetestingaccademy.testng.Lab267">
             </testcase>
             <testcase
-                name="createTokenBDDStyle"
-                time="8.510"
+                name="postCreateBookingBDDStyle"
+                time="2.471"
                 classname="com.thetestingaccademy.testng.Lab267">
             </testcase>
 </testsuite>
