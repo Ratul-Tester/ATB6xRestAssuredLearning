@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.281">
+    <properties></properties>
+
+
+
+            <testcase
+                name="qualityRun"
+                time="0.000"
+                classname="com.thetestingaccademy.testng.Lab272">
+            </testcase>
+            <testcase
+                name="qaRun"
+                time="0.250"
+                classname="com.thetestingaccademy.testng.Lab272">
+            </testcase>
+            <testcase
+                name="smokeRun"
+                time="0.015"
+                classname="com.thetestingaccademy.testng.Lab272">
+            </testcase>
+            <testcase
+                name="saniRun"
+                time="0.016"
+                classname="com.thetestingaccademy.testng.Lab272">
+            </testcase>
+</testsuite>

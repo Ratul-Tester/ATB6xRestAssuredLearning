@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.296">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDemoBrowserStarting"
+                time="0.296"
+                classname="com.thetestingaccademy.testng.Lab275">
+            </testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.342">
+    <properties></properties>
+
+
+
+            <testcase
+                name="cgetBookingId"
+                time="0.015"
+                classname="com.thetestingaccademy.testng.Lab273">
+            </testcase>
+            <testcase
+                name="aputMethod"
+                time="0.015"
+                classname="com.thetestingaccademy.testng.Lab273">
+            </testcase>
+            <testcase
+                name="bgetToken"
+                time="0.312"
+                classname="com.thetestingaccademy.testng.Lab273">
+            </testcase>
+</testsuite>

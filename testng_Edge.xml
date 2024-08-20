@@ -2,11 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB6xRestAssuredLearning">
+        <parameter name="Browser" value="Edge"></parameter>
         <classes>
-
-            <class name="com.thetestingaccademy.testng.L265"></class>
-
-
+            <class name="com.thetestingaccademy.testng.Lab277"> </class>
         </classes>
     </test>
 </suite>
