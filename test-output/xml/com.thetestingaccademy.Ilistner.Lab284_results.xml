@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.366">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test1"
+                time="0.354"
+                classname="com.thetestingaccademy.Ilistner.Lab284">
+            </testcase>
+            <testcase
+                name="test2"
+                time="0.012"
+                classname="com.thetestingaccademy.Ilistner.Lab284">
+            </testcase>
+</testsuite>

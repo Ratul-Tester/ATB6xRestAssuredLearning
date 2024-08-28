@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.316">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDemoCredentials"
+                time="0.015"
+                classname="com.thetestingaccademy.ex_ra01.Lab280">
+            </testcase>
+            <testcase
+                name="testDemoCredentials"
+                time="0.000"
+                classname="com.thetestingaccademy.ex_ra01.Lab280">
+            </testcase>
+            <testcase
+                name="testDemoCredentials"
+                time="0.301"
+                classname="com.thetestingaccademy.ex_ra01.Lab280">
+            </testcase>
+</testsuite>
