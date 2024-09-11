@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.366">
+           time="0.358">
     <properties></properties>
 
 
 
             <testcase
                 name="test1"
-                time="0.354"
+                time="0.345"
                 classname="com.thetestingaccademy.Ilistner.Lab284">
             </testcase>
             <testcase
                 name="test2"
-                time="0.012"
+                time="0.013"
                 classname="com.thetestingaccademy.Ilistner.Lab284">
             </testcase>
 </testsuite>

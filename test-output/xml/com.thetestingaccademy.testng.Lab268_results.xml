@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="ATB6xRestAssuredLearning"
-           tests="4"
+           tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="13.948">
+           time="8.313">
     <properties></properties>
 
 
 
             <testcase
-                name="fetchBookingGETnonBDDStyle"
-                time="2.552"
-                classname="com.thetestingaccademy.testng.Lab268">
-            </testcase>
-            <testcase
-                name="fetchHealthGETnonBDDStyle"
-                time="2.096"
-                classname="com.thetestingaccademy.testng.Lab268">
-            </testcase>
-            <testcase
-                name="createTokenPOSTnonBDDStyle"
-                time="6.954"
-                classname="com.thetestingaccademy.testng.Lab268">
-            </testcase>
-            <testcase
                 name="createBookingPOSTnonBDDStyle"
-                time="2.346"
+                time="8.313"
                 classname="com.thetestingaccademy.testng.Lab268">
             </testcase>
 </testsuite>
