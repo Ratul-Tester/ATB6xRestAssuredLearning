@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.682">
+    <properties></properties>
+
+
+
+            <testcase
+                name="serializationPojo"
+                time="9.682"
+                classname="com.thetestingaccademy.gson.serialization.Lab291">
+            </testcase>
+</testsuite>

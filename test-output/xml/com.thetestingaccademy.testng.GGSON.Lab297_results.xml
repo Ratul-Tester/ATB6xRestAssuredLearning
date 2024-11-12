@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.531">
+    <properties></properties>
+
+
+
+            <testcase
+                name="finalTest"
+                time="8.531"
+                classname="com.thetestingaccademy.testng.GGSON.Lab297">
+            </testcase>
+</testsuite>

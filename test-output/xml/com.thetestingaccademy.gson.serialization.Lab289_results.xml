@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="10.300">
+           time="11.083">
     <properties></properties>
 
 
 
             <testcase
                 name="postBooking"
-                time="10.300"
+                time="11.083"
                 classname="com.thetestingaccademy.gson.serialization.Lab289">
             </testcase>
 </testsuite>

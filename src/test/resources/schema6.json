@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "title": "Root Schema",
+  "required": [
+    "userId",
+    "id",
+    "title",
+    "body"
+  ],
+  "properties": {
+    "userId": {
+      "type": "integer",
+      "default": 0,
+      "title": "The userId Schema",
+      "examples": [
+        1
+      ]
+    },
+    "id": {
+      "type": "integer",
+      "default": 0,
+      "title": "The id Schema",
+      "examples": [
+        3
+      ]
+    },
+    "title": {
+      "type": "string",
+      "default": "",
+      "title": "The title Schema",
+      "examples": [
+        "ea molestias quasi exercitationem repellat qui ipsa sit aut"
+      ]
+    },
+    "body": {
+      "type": "string",
+      "default": "",
+      "title": "The body Schema",
+      "examples": [
+        "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+      ]
+    }
+  },
+  "examples": [{
+    "userId": 1,
+    "id": 3,
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  }]
+}

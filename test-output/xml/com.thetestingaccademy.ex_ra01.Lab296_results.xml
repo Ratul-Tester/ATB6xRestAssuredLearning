@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.247">
+    <properties></properties>
+
+
+
+            <testcase
+                name="jSToString"
+                time="9.247"
+                classname="com.thetestingaccademy.ex_ra01.Lab296">
+            </testcase>
+</testsuite>

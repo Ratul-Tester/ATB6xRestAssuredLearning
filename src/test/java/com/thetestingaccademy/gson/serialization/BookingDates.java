@@ -1,9 +1,16 @@
 package com.thetestingaccademy.gson.serialization;
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 public class BookingDates {
 
-    String checkin;
-    String checkout;
+    @SerializedName("checkin")
+    @Expose
+    private String checkin;
+    @SerializedName("checkout")
+    @Expose
+    private String checkout;
 
     public String getCheckin() {
         return checkin;
@@ -20,4 +27,5 @@ public class BookingDates {
     public void setCheckout(String checkout) {
         this.checkout = checkout;
     }
+
 }

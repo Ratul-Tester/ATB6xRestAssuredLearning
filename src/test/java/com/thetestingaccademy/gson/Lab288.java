@@ -1,7 +1,7 @@
 package com.thetestingaccademy.gson;
 
-import com.thetestingaccademy.gson.serialization.Booking;
-import com.thetestingaccademy.gson.serialization.BookingDates;
+import com.thetestingaccademy.gson.serialization.Bookingg;
+import com.thetestingaccademy.gson.serialization.BookingDatess;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
@@ -17,13 +17,13 @@ public class Lab288 {
         String BaseUrl = "https://restful-booker.herokuapp.com";
         String BasePath = "/booking";
 
-        Booking booking = new Booking();
+        Bookingg booking = new Bookingg();
         booking.setFirstname("Bala");
         booking.setLastname("Pela");
         booking.setTotalprice(401);
         booking.setDepositpaid(true);
 
-        BookingDates bookingdates = new BookingDates();
+        BookingDatess bookingdates = new BookingDatess();
         bookingdates.setCheckin("2021-01-01");
         bookingdates.setCheckout("2021-01-02");
 

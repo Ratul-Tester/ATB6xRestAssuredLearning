@@ -16,18 +16,41 @@ public class Lab289 {
         String BaseUrl = "https://restful-booker.herokuapp.com";
         String BasePath= "/booking";
 
-        Booking booking = new Booking();
+        Bookingg booking = new Bookingg();
         booking.setFirstname("Ramesh");
         booking.setLastname("Rao");
         booking.setTotalprice(123);
         booking.setDepositpaid(false);
 
-        BookingDates bookingdates = new BookingDates();
+        BookingDatess bookingdates = new BookingDatess();
         bookingdates.setCheckin("2018-01-01");
         bookingdates.setCheckout("2018-02-02");
 
         booking.setBookingdates(bookingdates);
         booking.setAdditionalneeds("Lunch");
+
+        System.out.println(booking.toString());
+
+
+        /*Booking booking1 = new Booking();
+        booking1.setFirstname("Ram");
+        booking1.setLastname("Rao");
+        booking1.setTotalprice(143);
+        booking1.setDepositpaid(true);
+
+        BookingDates bookingdates1 = new BookingDates();
+        bookingdates1.setCheckin("2019-01-01");
+        bookingdates1.setCheckout("2019-02-02");
+
+        booking1.setBookingdates(bookingdates1);
+        booking1.setAdditionalneeds("Dinner");
+
+        System.out.println(booking1.toString());*/
+
+//        ArrayList payload = new ArrayList();
+//        payload.add(booking);
+//        payload.add(booking1);
+//        System.out.println(payload);
 
         RequestSpecification requestSpecification = RestAssured.given();
         Response response;
@@ -45,5 +68,8 @@ public class Lab289 {
 
         validatableResponse = response.then();
         validatableResponse.log().all().statusCode(200);
+
+
+
     }
 }
